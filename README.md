@@ -1,3 +1,3 @@
-# vsidorovich.github.io
-Olga Sidorovich | Minsk, Belarus | Full Stack Developer | personal page
+# https://olgasidorovich.github.io/
+Olga Sidorovich | Minsk, Belarus | Chinese Language Tutor | Personal Page
  
